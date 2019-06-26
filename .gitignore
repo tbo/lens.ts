@@ -58,7 +58,7 @@ typings/
 .env
 
 # Built files
-dist
+# dist
 
 # VS Code
 .vscode
